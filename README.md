@@ -1,3 +1,16 @@
+
+SANJHVI DOGRA
+101370217
+
+
+https://github.com/sanjhvii/101370217_comp3123_assignment2_reactjs
+
+https://vercel.com/sanjhvi-dogras-projects/101370217-comp3123-assignment2-reactjs
+
+
+All the screenshots are added in Assignment folder.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"# 101370217_comp3123_assignment2_reactjs" 
